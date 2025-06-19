@@ -20,7 +20,15 @@ Getting Started
 
 First, run the development server:
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   bashnpm run dev  # or  yarn dev  # or  pnpm dev  # or  bun dev   `
+First, run the development server:
+
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
